@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CatTrackerML.ConsoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": "train"
+    }
+  }
+}

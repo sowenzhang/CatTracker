@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CatTrackerML.ConsoleApp/bin
+/.vs/CatTracker/v16/Server/sqlite3
+/CatTrackerML.ConsoleApp/obj
+/CatTrackerML.Model/bin
+/CatTrackerML.Model/obj
+/CatTrackerML.Model/MLModel.zip
+/.vs/CatTracker/v16
