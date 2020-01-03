@@ -8,19 +8,28 @@ The motivation of this work is at here:
 
 [How to identify the breed of a cat](http://hongincanada.com/blog/2020/01/42-version-1-how¡­e-breed-of-a-cat/)
 
+# Before you run
+
+Please update the 2 TSV files: 
+
+- cats.tsv: under folder `Resources\cats` 
+- test.tsv: under folder `Resources\testImages` 
+
+You have to specify the absolute path to match your local machine where you store those images. 
+
 # Execution 
 
-The trained model is over 120MB so I cannot push to git. 
+The trained model is over 120MB so I cannot push to git. So you have to train the model locally first. 
 
 There are 2 ways to run the console app. 
 
-# 1. Use VS.NET community (easier)
+## 1. Use VS.NET community (easier)
 
 Debug the **CatTrackerML.ConsoleApp** with an argument `train`, which will use some default arguments. 
 
 Next debug the **CatTrackerML.ConsoleApp** with an argument `predict`, which will again use some default arguments. 
 
-# 2. Build it with command line 
+## 2. Build it with command line 
 
 Navigate to the root folder, and run this: 
 
