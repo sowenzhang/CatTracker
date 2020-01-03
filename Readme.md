@@ -6,7 +6,7 @@ It is NOT a realiable solution and it has no intention to be one.
 
 The motivation of this work is at here: 
 
-[How to identify the breed of a cat](http://hongincanada.com/blog/2020/01/42-version-1-how¡­e-breed-of-a-cat/)
+[How to identify the breed of a cat](http://hongincanada.com/blog/2020/01/42-version-1-how-to-identify-the-breed-of-a-cat/)
 
 # Before you run
 
